@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_pQCyoHZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_pQCyoXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Encoding" prompt="Fic_RefClient_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+    <contextParameter xmi:id="_pQCyonZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_RowSeparator" prompt="Fic_RefClient_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_pQCyo3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_FieldSeparator" prompt="Fic_RefClient_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_pQCypHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Header" prompt="Fic_RefClient_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_pQCypXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_File" prompt="Fic_RefClient_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_RefClient.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_pQCypnZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_pQCyp3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Encoding" prompt="Fic_RefClient_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+    <contextParameter xmi:id="_pQCyqHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_RowSeparator" prompt="Fic_RefClient_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_pQCyqXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_FieldSeparator" prompt="Fic_RefClient_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_pQCyqnZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Header" prompt="Fic_RefClient_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_pQCyq3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_File" prompt="Fic_RefClient_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_RefClient.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_pQCyrHZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_pQCyrXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Encoding" prompt="Fic_RefClient_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+    <contextParameter xmi:id="_pQCyrnZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_RowSeparator" prompt="Fic_RefClient_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_pQCyr3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_FieldSeparator" prompt="Fic_RefClient_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_pQCysHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Header" prompt="Fic_RefClient_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_pQCysXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_File" prompt="Fic_RefClient_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_RefClient.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_pQCysnZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Rec">
+    <contextParameter xmi:id="_pQCys3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Encoding" prompt="Fic_RefClient_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+    <contextParameter xmi:id="_pQCytHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_RowSeparator" prompt="Fic_RefClient_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_pQCytXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_FieldSeparator" prompt="Fic_RefClient_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_pQCytnZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_Header" prompt="Fic_RefClient_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_pQCyt3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefClient_File" prompt="Fic_RefClient_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_RefClient.csv"/>
+  </talendfile:ContextType>
+</xmi:XMI>

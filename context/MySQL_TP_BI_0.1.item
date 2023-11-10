@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_M0yT8HZyEe6axcPzMjz-dA" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_M0yT8XZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Password" prompt="MySQL_TP_BI_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_M0yT8nZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Port" prompt="MySQL_TP_BI_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_M0yT83ZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Login" prompt="MySQL_TP_BI_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_M0yT9HZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Server" prompt="MySQL_TP_BI_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_M0yT9XZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_AdditionalParams" prompt="MySQL_TP_BI_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_M0yT9nZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Database" prompt="MySQL_TP_BI_Database?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_M0yT93ZyEe6axcPzMjz-dA" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_M0yT-HZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Password" prompt="MySQL_TP_BI_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_M0yT-XZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Port" prompt="MySQL_TP_BI_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_M0yT-nZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Login" prompt="MySQL_TP_BI_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_M0yT-3ZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Server" prompt="MySQL_TP_BI_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_M0yT_HZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_AdditionalParams" prompt="MySQL_TP_BI_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_M0yT_XZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Database" prompt="MySQL_TP_BI_Database?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_M0yT_nZyEe6axcPzMjz-dA" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_M0yT_3ZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Password" prompt="MySQL_TP_BI_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_M0yUAHZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Port" prompt="MySQL_TP_BI_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_M0yUAXZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Login" prompt="MySQL_TP_BI_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_M0yUAnZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Server" prompt="MySQL_TP_BI_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_M0yUA3ZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_AdditionalParams" prompt="MySQL_TP_BI_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_M0yUBHZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Database" prompt="MySQL_TP_BI_Database?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_M0yUBXZyEe6axcPzMjz-dA" confirmationNeeded="false" name="Rec">
+    <contextParameter xmi:id="_M0yUBnZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Password" prompt="MySQL_TP_BI_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_M0yUB3ZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Port" prompt="MySQL_TP_BI_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_M0yUCHZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Login" prompt="MySQL_TP_BI_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_M0yUCXZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Server" prompt="MySQL_TP_BI_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_M0yUCnZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_AdditionalParams" prompt="MySQL_TP_BI_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_M0yUC3ZyEe6axcPzMjz-dA" comment="" name="MySQL_TP_BI_Database" prompt="MySQL_TP_BI_Database?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

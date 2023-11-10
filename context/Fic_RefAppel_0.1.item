@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_5NHTUHZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_5NHTUXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Encoding" prompt="Fic_RefAppel_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+    <contextParameter xmi:id="_5NHTUnZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_RowSeparator" prompt="Fic_RefAppel_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_5NHTU3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_FieldSeparator" prompt="Fic_RefAppel_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_5NHTVHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Header" prompt="Fic_RefAppel_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_5NHTVXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_File" prompt="Fic_RefAppel_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_FaitAppels.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_5NHTVnZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_5NHTV3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Encoding" prompt="Fic_RefAppel_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+    <contextParameter xmi:id="_5NHTWHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_RowSeparator" prompt="Fic_RefAppel_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_5NHTWXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_FieldSeparator" prompt="Fic_RefAppel_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_5NHTWnZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Header" prompt="Fic_RefAppel_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_5NHTW3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_File" prompt="Fic_RefAppel_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_FaitAppels.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_5NHTXHZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_5NHTXXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Encoding" prompt="Fic_RefAppel_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+    <contextParameter xmi:id="_5NHTXnZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_RowSeparator" prompt="Fic_RefAppel_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_5NHTX3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_FieldSeparator" prompt="Fic_RefAppel_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_5NHTYHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Header" prompt="Fic_RefAppel_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_5NHTYXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_File" prompt="Fic_RefAppel_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_FaitAppels.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_5NHTYnZ9Ee6axcPzMjz-dA" confirmationNeeded="false" name="Rec">
+    <contextParameter xmi:id="_5NHTY3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Encoding" prompt="Fic_RefAppel_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+    <contextParameter xmi:id="_5NHTZHZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_RowSeparator" prompt="Fic_RefAppel_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_5NHTZXZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_FieldSeparator" prompt="Fic_RefAppel_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_5NHTZnZ9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_Header" prompt="Fic_RefAppel_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_5NHTZ3Z9Ee6axcPzMjz-dA" comment="" name="Fic_RefAppel_File" prompt="Fic_RefAppel_File?" promptNeeded="false" type="id_File" value="C:/Talend/Ressources/TP - BI/Sources/Sources/SRC_FaitAppels.csv"/>
+  </talendfile:ContextType>
+</xmi:XMI>
